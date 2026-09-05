@@ -1,0 +1,9 @@
+﻿Department_ID,Department_Name,Manager,Location,Department_Budget
+D001,IT,Rajesh Kumar,Bengaluru,50000000
+D002,Finance,Priya Sharma,Mumbai,25000000
+D003,HR,Anita Rao,Bengaluru,18000000
+D004,Sales,Vikram Singh,Delhi,35000000
+D005,Marketing,Neha Patel,Mumbai,22000000
+D006,Operations,Suresh Nair,Pune,45000000
+D007,Customer Support,Meera Iyer,Hyderabad,30000000
+D008,Administration,Arun Menon,Chennai,15000000
