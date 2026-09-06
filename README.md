@@ -20,6 +20,12 @@
 
 *---*
 
+*## 📸 Dashboard Preview*
+
+
+
+*!\[Payroll \& Workforce Analytics Dashboard](Payroll-Workforce-Analytics-Dashboard.png)*
+
 
 
 *## 🎯 Business Problem*
